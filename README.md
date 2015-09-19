@@ -3,7 +3,7 @@
 ---
 
 ## 未分配成员
-- Github ID[Xuanwo](https://github.com/Xuanwo)  学堂在线ID：Vars
+- [Xuanwo](https://github.com/Xuanwo)
 
 ## 招募中Team
 
