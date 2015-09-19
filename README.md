@@ -5,6 +5,8 @@
 
 ## 未分配成员
 - [Xuanwo](https://github.com/Xuanwo)
+- [hjuinj](https://github.com/hjuinj)
+- [blackerXHunter](https://github.com/blackerXHunter)
 
 ## 招募中Team
 
