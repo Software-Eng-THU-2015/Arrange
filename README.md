@@ -9,6 +9,7 @@
 - [blackerXHunter](https://github.com/blackerXHunter)
 - [anyingbinglong](https://github.com/anyingbinglong)
 - [peterandluc](https://github.com/peterandluc)
+- [Dknightsure](https://github.com/Dknightsure)
 
 ## 招募中Team
 
