@@ -4,7 +4,6 @@
 ---
 
 ## 未分配成员
-- [Xuanwo](https://github.com/Xuanwo)
 - [hjuinj](https://github.com/hjuinj)
 - [blackerXHunter](https://github.com/blackerXHunter)
 - [anyingbinglong](https://github.com/anyingbinglong)
@@ -13,6 +12,6 @@
 - [HanderWei](https://github.com/HanderWei)
 
 ## 招募中Team
-- [三个臭皮匠]
+- [三个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thethreestooges)
 
 ## 已成立Team
