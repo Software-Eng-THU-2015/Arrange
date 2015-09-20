@@ -10,7 +10,9 @@
 - [anyingbinglong](https://github.com/anyingbinglong)
 - [peterandluc](https://github.com/peterandluc)
 - [Dknightsure](https://github.com/Dknightsure)
+- [HanderWei](https://github.com/HanderWei)
 
 ## 招募中Team
+- [三个臭皮匠]
 
 ## 已成立Team
