@@ -7,6 +7,8 @@
 - [Xuanwo](https://github.com/Xuanwo)
 - [hjuinj](https://github.com/hjuinj)
 - [blackerXHunter](https://github.com/blackerXHunter)
+- [anyingbinglong](https://github.com/anyingbinglong)
+- [peterandluc](https://github.com/peterandluc)
 
 ## 招募中Team
 
