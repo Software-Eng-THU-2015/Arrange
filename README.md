@@ -10,6 +10,7 @@
 - [peterandluc](https://github.com/peterandluc)
 - [Dknightsure](https://github.com/Dknightsure)
 - [HanderWei](https://github.com/HanderWei)
+- [mikewanggo](https://github.com/mikewanggo)
 
 ## 招募中Team
 - [三个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thethreestooges)
