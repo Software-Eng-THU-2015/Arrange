@@ -4,8 +4,6 @@
 ---
 
 ## 未分配成员
-- [hjuinj](https://github.com/hjuinj)
-- [blackerXHunter](https://github.com/blackerXHunter)
 - [anyingbinglong](https://github.com/anyingbinglong)
 - [peterandluc](https://github.com/peterandluc)
 - [Dknightsure](https://github.com/Dknightsure)
@@ -13,6 +11,6 @@
 - [mikewanggo](https://github.com/mikewanggo)
 
 ## 招募中Team
-- [三个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thethreestooges)
 
 ## 已成立Team
+- [四个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thefourstooges)
