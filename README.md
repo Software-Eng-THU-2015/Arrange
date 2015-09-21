@@ -9,6 +9,7 @@
 - [Dknightsure](https://github.com/Dknightsure)
 - [HanderWei](https://github.com/HanderWei)
 - [mikewanggo](https://github.com/mikewanggo)
+- [wangzhi123333](https://github.com/wangzhi123333)
 
 ## 招募中Team
 
