@@ -10,6 +10,7 @@
 - [HanderWei](https://github.com/HanderWei)
 - [mikewanggo](https://github.com/mikewanggo)
 - [wangzhi123333](https://github.com/wangzhi123333)
+- [jy20122711](https://github.com/jy20122711)
 
 ## 招募中Team
 
