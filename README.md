@@ -11,6 +11,8 @@
 - [mikewanggo](https://github.com/mikewanggo)
 - [wangzhi123333](https://github.com/wangzhi123333)
 - [jy20122711](https://github.com/jy20122711)
+- [qwerrr](https://github.com/qwerrr)
+- [tmacjx](https://github.com/tmacjx)
 
 ## 招募中Team
 
