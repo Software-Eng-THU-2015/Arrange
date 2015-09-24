@@ -13,6 +13,7 @@
 - [jy20122711](https://github.com/jy20122711)
 - [qwerrr](https://github.com/qwerrr)
 - [tmacjx](https://github.com/tmacjx)
+- [Furzoom](https://github.com/Furzoom)
 
 ## 招募中Team
 
