@@ -16,6 +16,9 @@
 - [Furzoom](https://github.com/Furzoom)
 - [ejacky](https://github.com/ejacky)
 - [momoqinghan](https://github.com/momoqinghan)
+- [Jack-Kingdom](https://github.com/Jack-Kingdom)
+- [akxxsb](https://github.com/akxxsb)
+- [haha-guy](https://github.com/haha-guy)
 
 ## 招募中Team
 
