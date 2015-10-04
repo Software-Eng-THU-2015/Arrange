@@ -19,6 +19,7 @@
 - [Jack-Kingdom](https://github.com/Jack-Kingdom)
 - [akxxsb](https://github.com/akxxsb)
 - [haha-guy](https://github.com/haha-guy)
+- [miuchan](https://github.com/miuchan)
 
 ## 招募中Team
 
