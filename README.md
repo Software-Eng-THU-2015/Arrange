@@ -20,6 +20,7 @@
 - [akxxsb](https://github.com/akxxsb)
 - [haha-guy](https://github.com/haha-guy)
 - [miuchan](https://github.com/miuchan)
+- [wzqlf](https://github.com/wzqlf)
 
 ## 招募中Team
 
