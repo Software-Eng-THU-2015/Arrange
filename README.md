@@ -21,6 +21,7 @@
 - [haha-guy](https://github.com/haha-guy)
 - [miuchan](https://github.com/miuchan)
 - [wzqlf](https://github.com/wzqlf)
+- [MingGaoNJU](https://github.com/MingGaoNJU)
 
 ## 招募中Team
 
