@@ -22,6 +22,7 @@
 - [miuchan](https://github.com/miuchan)
 - [wzqlf](https://github.com/wzqlf)
 - [MingGaoNJU](https://github.com/MingGaoNJU)
+- [chym1009](https://github.com/chym1009)
 
 ## 招募中Team
 
