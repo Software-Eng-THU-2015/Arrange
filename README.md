@@ -26,6 +26,7 @@
 - [devxia](https://github.com/devxia)
 - [zzstart2](https://github.com/zzstart2)
 - [huangkh](https://github.com/huangkh)
+- [FuyuSyogun](https://github.com/FuyuSyogun)
 
 ## 招募中Team
 
