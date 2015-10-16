@@ -25,6 +25,7 @@
 - [chym1009](https://github.com/chym1009)
 - [devxia](https://github.com/devxia)
 - [zzstart2](https://github.com/zzstart2)
+- [huangkh](https://github.com/huangkh)
 
 ## 招募中Team
 
