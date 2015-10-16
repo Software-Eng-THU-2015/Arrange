@@ -36,6 +36,7 @@
 - [zhoulw13](https://github.com/zhoulw13)
 
 ## 招募中Team
+- [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
 
 ## 已成立Team
 - [四个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thefourstooges)
