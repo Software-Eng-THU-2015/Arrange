@@ -34,6 +34,7 @@
 - [zjcAlistar](https://github.com/zjcAlistar)
 - [zhoulw13](https://github.com/zhoulw13)
 - [TLawrenceCHEN](https://github.com/TLawrenceCHEN)
+- [RP011](https://github.com/RP011)
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
