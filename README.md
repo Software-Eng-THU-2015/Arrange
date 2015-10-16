@@ -33,6 +33,7 @@
 - [nero19960329](https://github.com/nero19960329)
 - [sycmio](https://github.com/sycmio)
 - [zjcAlistar](https://github.com/zjcAlistar)
+- [tsinghua_zhoulw13](https://github.com/tsinghua_zhoulw13)
 
 ## 招募中Team
 
