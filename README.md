@@ -28,6 +28,7 @@
 - [huangkh](https://github.com/huangkh)
 - [FuyuSyogun](https://github.com/FuyuSyogun)
 - [wenfahu](https://github.com/wenfahu)
+- [namespaceXP](https://github.com/namespaceXP)
 
 ## 招募中Team
 
