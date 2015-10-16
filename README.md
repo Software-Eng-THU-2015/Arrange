@@ -29,6 +29,7 @@
 - [FuyuSyogun](https://github.com/FuyuSyogun)
 - [wenfahu](https://github.com/wenfahu)
 - [namespaceXP](https://github.com/namespaceXP)
+- [hby2013](https://github.com/hby2013)
 
 ## 招募中Team
 
