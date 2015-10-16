@@ -30,6 +30,7 @@
 - [wenfahu](https://github.com/wenfahu)
 - [namespaceXP](https://github.com/namespaceXP)
 - [hby2013](https://github.com/hby2013)
+- [nero19960329](https://github.com/nero19960329)
 
 ## 招募中Team
 
