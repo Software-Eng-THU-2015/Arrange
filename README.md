@@ -30,10 +30,10 @@
 - [wenfahu](https://github.com/wenfahu)
 - [namespaceXP](https://github.com/namespaceXP)
 - [hby2013](https://github.com/hby2013)
-- [nero19960329](https://github.com/nero19960329)
 - [sycmio](https://github.com/sycmio)
 - [zjcAlistar](https://github.com/zjcAlistar)
 - [zhoulw13](https://github.com/zhoulw13)
+- [TLawrenceCHEN](https://github.com/TLawrenceCHEN)
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
