@@ -27,6 +27,7 @@
 - [zzstart2](https://github.com/zzstart2)
 - [huangkh](https://github.com/huangkh)
 - [FuyuSyogun](https://github.com/FuyuSyogun)
+- [wenfahu](https://github.com/wenfahu)
 
 ## 招募中Team
 
