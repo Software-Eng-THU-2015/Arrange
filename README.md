@@ -36,6 +36,9 @@
 - [TLawrenceCHEN](https://github.com/TLawrenceCHEN)
 - [RP011](https://github.com/RP011)
 - [SparklingWind](https://github.com/SparklingWind)
+- [WyxJsdf](https://github.com/WyxJsdf)
+- [wangbb13](https://github.com/wangbb13)
+- [HECHAO225](https://github.com/HECHAO225)
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
