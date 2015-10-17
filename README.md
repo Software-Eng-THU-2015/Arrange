@@ -43,9 +43,7 @@
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
-- [Pacific Rim](https://github.com/orgs/Software-Eng-THU-2015/teams/pacific-rim)
-- [ad-calcium-milk](https://github.com/orgs/Software-Eng-THU-2015/teams/ad-calcium-milk)
-- [wyteam](https://github.com/orgs/Software-Eng-THU-2015/teams/wyteam)
 
 ## 已成立Team
 - [四个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thefourstooges)
+- [ad-calcium-milk](https://github.com/orgs/Software-Eng-THU-2015/teams/ad-calcium-milk)
