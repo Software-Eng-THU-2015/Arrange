@@ -4,7 +4,7 @@
 ---
 
 ## 未分配成员
-- [anyingbinglong](https://github.com/anyingbinglong)
+1. [anyingbinglong](https://github.com/anyingbinglong)
 - [peterandluc](https://github.com/peterandluc)
 - [Dknightsure](https://github.com/Dknightsure)
 - [HanderWei](https://github.com/HanderWei)
