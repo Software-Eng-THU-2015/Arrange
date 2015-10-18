@@ -48,6 +48,9 @@
 - [ParallelMk2](https://github.com/ParallelMk2)
 - [chendaxixi](https://github.com/chendaxixi)
 - [JayGuyGao](https://github.com/JayGuyGao)
+- [crazylg](https://github.com/crazylg)
+- [Shaddoll](https://github.com/Shaddoll)
+- [expressyang](https://github.com/expressyang)
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
