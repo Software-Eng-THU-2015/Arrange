@@ -47,10 +47,12 @@
 - [Feynmannnn](https://github.com/Feynmannnn)
 - [ParallelMk2](https://github.com/ParallelMk2)
 - [chendaxixi](https://github.com/chendaxixi)
+- [JayGuyGao](https://github.com/JayGuyGao)
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
+- [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
 
 ## 已成立Team
 - [四个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thefourstooges)
-- [ad-calcium-milk](https://github.com/orgs/Software-Eng-THU-2015/teams/ad-calcium-milk)
+- [AD钙奶](https://github.com/orgs/Software-Eng-THU-2015/teams/ad-calcium-milk)
