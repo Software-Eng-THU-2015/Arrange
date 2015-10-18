@@ -51,6 +51,7 @@
 - [crazylg](https://github.com/crazylg)
 - [Shaddoll](https://github.com/Shaddoll)
 - [expressyang](https://github.com/expressyang)
+- [mysljq](https://github.com/mysljq)
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
