@@ -40,6 +40,12 @@
 - [wangbb13](https://github.com/wangbb13)
 - [HECHAO225](https://github.com/HECHAO225)
 - [DjangoTarantino](https://github.com/DjangoTarantino)
+- [VenerisLiu](https://github.com/VenerisLiu)
+- [xieyuchen13](https://github.com/xieyuchen13)
+- [caojx13](https://github.com/caojx13)
+- [w-ccc](https://github.com/w-ccc)
+- [Feynmannnn](https://github.com/Feynmannnn)
+- [ParallelMk2](https://github.com/ParallelMk2)
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
