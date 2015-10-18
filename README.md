@@ -46,6 +46,7 @@
 - [w-ccc](https://github.com/w-ccc)
 - [Feynmannnn](https://github.com/Feynmannnn)
 - [ParallelMk2](https://github.com/ParallelMk2)
+- [chendaxixi](https://github.com/chendaxixi)
 
 ## 招募中Team
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
