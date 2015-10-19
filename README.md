@@ -40,6 +40,7 @@
 - [expressyang](https://github.com/expressyang)
 - [mysljq](https://github.com/mysljq)
 - [halison95](https://github.com/halison95)
+- [jy-Hamlet](https://github.com/jy-Hamlet)
 
 ## 招募中Team
 
