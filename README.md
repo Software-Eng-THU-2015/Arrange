@@ -41,6 +41,8 @@
 - [mysljq](https://github.com/mysljq)
 - [halison95](https://github.com/halison95)
 - [jy-Hamlet](https://github.com/jy-Hamlet)
+- [503661642](https://github.com/503661642)
+- [darkcircler](https://github.com/darkcircler)
 
 ## 招募中Team
 
