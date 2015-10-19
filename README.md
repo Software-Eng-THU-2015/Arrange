@@ -44,6 +44,7 @@
 - [wangzheng2013](https://github.com/wangzheng2013)
 - [kehao95](https://github.com/kehao95)
 - [whitecloth](https://github.com/whitecloth)
+- [yanniewang106](https://github.com/yanniewang106)
 
 ## 招募中Team
 
