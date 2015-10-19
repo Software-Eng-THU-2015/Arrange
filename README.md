@@ -34,7 +34,6 @@
 - [VenerisLiu](https://github.com/VenerisLiu)
 - [xieyuchen13](https://github.com/xieyuchen13)
 - [w-ccc](https://github.com/w-ccc)
-- [Feynmannnn](https://github.com/Feynmannnn)
 - [ParallelMk2](https://github.com/ParallelMk2)
 - [crazylg](https://github.com/crazylg)
 - [expressyang](https://github.com/expressyang)
