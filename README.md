@@ -45,7 +45,6 @@
 - [kehao95](https://github.com/kehao95)
 - [whitecloth](https://github.com/whitecloth)
 - [yanniewang106](https://github.com/yanniewang106)
-- [xujingao13](https://github.com/xujingao13)
 
 ## 招募中Team
 
@@ -53,6 +52,7 @@
 - [圣光](https://github.com/orgs/Software-Eng-THU-2015/teams/team)
 - [三只小猪](https://github.com/orgs/Software-Eng-THU-2015/teams/threepigs)
 - [软院F4](https://github.com/orgs/Software-Eng-THU-2015/teams/ss-f4)
+- [珍环传](https://github.com/orgs/Software-Eng-THU-2015/teams/precious-ring)
 
 ## 已成立Team
 
