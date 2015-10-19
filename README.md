@@ -4,6 +4,7 @@
 ---
 
 ## 未分配成员
+
 1. [anyingbinglong](https://github.com/anyingbinglong)
 - [peterandluc](https://github.com/peterandluc)
 - [Dknightsure](https://github.com/Dknightsure)
@@ -25,40 +26,28 @@
 - [chym1009](https://github.com/chym1009)
 - [devxia](https://github.com/devxia)
 - [zzstart2](https://github.com/zzstart2)
-- [huangkh](https://github.com/huangkh)
-- [FuyuSyogun](https://github.com/FuyuSyogun)
-- [wenfahu](https://github.com/wenfahu)
-- [namespaceXP](https://github.com/namespaceXP)
-- [hby2013](https://github.com/hby2013)
 - [sycmio](https://github.com/sycmio)
-- [zjcAlistar](https://github.com/zjcAlistar)
-- [zhoulw13](https://github.com/zhoulw13)
-- [TLawrenceCHEN](https://github.com/TLawrenceCHEN)
-- [RP011](https://github.com/RP011)
 - [SparklingWind](https://github.com/SparklingWind)
 - [WyxJsdf](https://github.com/WyxJsdf)
 - [wangbb13](https://github.com/wangbb13)
 - [HECHAO225](https://github.com/HECHAO225)
-- [DjangoTarantino](https://github.com/DjangoTarantino)
 - [VenerisLiu](https://github.com/VenerisLiu)
 - [xieyuchen13](https://github.com/xieyuchen13)
-- [caojx13](https://github.com/caojx13)
 - [w-ccc](https://github.com/w-ccc)
 - [Feynmannnn](https://github.com/Feynmannnn)
 - [ParallelMk2](https://github.com/ParallelMk2)
-- [chendaxixi](https://github.com/chendaxixi)
-- [JayGuyGao](https://github.com/JayGuyGao)
 - [crazylg](https://github.com/crazylg)
-- [Shaddoll](https://github.com/Shaddoll)
 - [expressyang](https://github.com/expressyang)
 - [mysljq](https://github.com/mysljq)
 
 ## 招募中Team
-- [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
+
 - [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
 - [圣光](https://github.com/orgs/Software-Eng-THU-2015/teams/team)
 - [三只小猪](https://github.com/orgs/Software-Eng-THU-2015/teams/threepigs)
 
 ## 已成立Team
+
 - [四个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thefourstooges)
 - [AD钙奶](https://github.com/orgs/Software-Eng-THU-2015/teams/ad-calcium-milk)
+- [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
