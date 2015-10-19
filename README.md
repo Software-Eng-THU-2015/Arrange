@@ -43,6 +43,7 @@
 - [jy-Hamlet](https://github.com/jy-Hamlet)
 - [503661642](https://github.com/503661642)
 - [darkcircler](https://github.com/darkcircler)
+- [biaocx12](https://github.com/biaocx12)
 
 ## 招募中Team
 
