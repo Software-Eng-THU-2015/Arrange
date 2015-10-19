@@ -45,12 +45,14 @@
 - [darkcircler](https://github.com/darkcircler)
 - [biaocx12](https://github.com/biaocx12)
 - [wangzheng2013](https://github.com/wangzheng2013)
+- [kehao95](https://github.com/kehao95)
 
 ## 招募中Team
 
 - [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
 - [圣光](https://github.com/orgs/Software-Eng-THU-2015/teams/team)
 - [三只小猪](https://github.com/orgs/Software-Eng-THU-2015/teams/threepigs)
+- [软院F4](https://github.com/orgs/Software-Eng-THU-2015/teams/ss-f4)
 
 ## 已成立Team
 
