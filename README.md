@@ -45,6 +45,7 @@
 - [biaocx12](https://github.com/biaocx12)
 - [wangzheng2013](https://github.com/wangzheng2013)
 - [kehao95](https://github.com/kehao95)
+- [whitecloth](https://github.com/whitecloth)
 
 ## 招募中Team
 
