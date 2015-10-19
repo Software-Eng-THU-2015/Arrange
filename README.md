@@ -44,6 +44,7 @@
 - [503661642](https://github.com/503661642)
 - [darkcircler](https://github.com/darkcircler)
 - [biaocx12](https://github.com/biaocx12)
+- [wangzheng2013](https://github.com/wangzheng2013)
 
 ## 招募中Team
 
