@@ -45,6 +45,7 @@
 - [kehao95](https://github.com/kehao95)
 - [whitecloth](https://github.com/whitecloth)
 - [yanniewang106](https://github.com/yanniewang106)
+- [waterkid](https://github.com/waterkid)
 
 ## 招募中Team
 
