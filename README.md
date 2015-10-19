@@ -39,6 +39,7 @@
 - [crazylg](https://github.com/crazylg)
 - [expressyang](https://github.com/expressyang)
 - [mysljq](https://github.com/mysljq)
+- [halison95](https://github.com/halison95)
 
 ## 招募中Team
 
