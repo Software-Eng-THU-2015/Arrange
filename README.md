@@ -49,6 +49,7 @@
 - [zhangyitian13](https://github.com/zhangyitian13)
 - [sheep94lion](https://github.com/sheep94lion)
 - [JiahuiGuo](https://github.com/JiahuiGuo)
+- [jzw13](https://github.com/jzw13)
 
 ## 招募中Team
 
