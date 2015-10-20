@@ -50,6 +50,7 @@
 - [sheep94lion](https://github.com/sheep94lion)
 - [JiahuiGuo](https://github.com/JiahuiGuo)
 - [jzw13](https://github.com/jzw13)
+- [littlepig2013](https://github.com/littlepig2013)
 
 ## 招募中Team
 
