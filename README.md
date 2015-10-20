@@ -46,6 +46,7 @@
 - [whitecloth](https://github.com/whitecloth)
 - [yanniewang106](https://github.com/yanniewang106)
 - [waterkid](https://github.com/waterkid)
+- [zhangyitian13](https://github.com/zhangyitian13)
 
 ## 招募中Team
 
