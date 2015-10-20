@@ -48,6 +48,7 @@
 - [waterkid](https://github.com/waterkid)
 - [zhangyitian13](https://github.com/zhangyitian13)
 - [sheep94lion](https://github.com/sheep94lion)
+- [JiahuiGuo](https://github.com/JiahuiGuo)
 
 ## 招募中Team
 
