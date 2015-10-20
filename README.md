@@ -47,6 +47,7 @@
 - [yanniewang106](https://github.com/yanniewang106)
 - [waterkid](https://github.com/waterkid)
 - [zhangyitian13](https://github.com/zhangyitian13)
+- [sheep94lion](https://github.com/sheep94lion)
 
 ## 招募中Team
 
