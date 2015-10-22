@@ -59,7 +59,6 @@
 - [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
 - [圣光](https://github.com/orgs/Software-Eng-THU-2015/teams/team)
 - [珍环传](https://github.com/orgs/Software-Eng-THU-2015/teams/precious-ring)
-- [数组](https://github.com/orgs/Software-Eng-THU-2015/teams/array)
 
 ## 已成立Team
 
@@ -68,3 +67,4 @@
 - [没名儿小组](https://github.com/orgs/Software-Eng-THU-2015/teams/nameless-group)
 - [三只小猪](https://github.com/orgs/Software-Eng-THU-2015/teams/threepigs)
 - [软院F4](https://github.com/orgs/Software-Eng-THU-2015/teams/ss-f4)
+- [数组](https://github.com/orgs/Software-Eng-THU-2015/teams/array)
