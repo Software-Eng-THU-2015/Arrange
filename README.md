@@ -52,6 +52,7 @@
 - [jzw13](https://github.com/jzw13)
 - [littlepig2013](https://github.com/littlepig2013)
 - [dreamqin68](https://github.com/dreamqin68)
+- [gnoweb](https://github.com/gnoweb)
 
 ## 招募中Team
 
