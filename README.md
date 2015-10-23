@@ -53,6 +53,7 @@
 - [littlepig2013](https://github.com/littlepig2013)
 - [dreamqin68](https://github.com/dreamqin68)
 - [gnoweb](https://github.com/gnoweb)
+- [GengShen](https://github.com/GengShen)
 
 ## 招募中Team
 
