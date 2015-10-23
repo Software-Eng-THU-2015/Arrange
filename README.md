@@ -60,6 +60,7 @@
 - [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
 - [圣光](https://github.com/orgs/Software-Eng-THU-2015/teams/team)
 - [珍环传](https://github.com/orgs/Software-Eng-THU-2015/teams/precious-ring)
+- [琅琊榜](https://github.com/orgs/Software-Eng-THU-2015/teams/langyabang)
 
 ## 已成立Team
 
