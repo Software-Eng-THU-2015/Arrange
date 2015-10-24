@@ -54,6 +54,8 @@
 - [dreamqin68](https://github.com/dreamqin68)
 - [gnoweb](https://github.com/gnoweb)
 - [GengShen](https://github.com/GengShen)
+- [qidanrui](https://github.com/qidanrui)
+- [EdAndrew](https://github.com/EdAndrew)
 
 ## 招募中Team
 
