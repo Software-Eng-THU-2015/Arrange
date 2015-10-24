@@ -56,6 +56,7 @@
 - [GengShen](https://github.com/GengShen)
 - [qidanrui](https://github.com/qidanrui)
 - [EdAndrew](https://github.com/EdAndrew)
+- [tomoyoyo](https://github.com/tomoyoyo)
 
 ## 招募中Team
 
