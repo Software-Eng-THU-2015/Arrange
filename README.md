@@ -57,6 +57,8 @@
 - [qidanrui](https://github.com/qidanrui)
 - [EdAndrew](https://github.com/EdAndrew)
 - [tomoyoyo](https://github.com/tomoyoyo)
+- [simoooncao](https://github.com/simoooncao)
+- [caozhangjie](https://github.com/caozhangjie)
 
 ## 招募中Team
 
