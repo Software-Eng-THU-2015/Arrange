@@ -75,5 +75,6 @@
 - [数组](https://github.com/orgs/Software-Eng-THU-2015/teams/array)
 - [圣光](https://github.com/orgs/Software-Eng-THU-2015/teams/team)
 - [琅琊榜](https://github.com/orgs/Software-Eng-THU-2015/teams/langyabang)
+- [环太平洋](https://github.com/orgs/Software-Eng-THU-2015/teams/pacific-rim)
 
 
