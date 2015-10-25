@@ -63,7 +63,6 @@
 ## 招募中Team
 
 - [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
-- [珍环传](https://github.com/orgs/Software-Eng-THU-2015/teams/precious-ring)
 
 ## 已成立Team
 
@@ -76,5 +75,7 @@
 - [圣光](https://github.com/orgs/Software-Eng-THU-2015/teams/team)
 - [琅琊榜](https://github.com/orgs/Software-Eng-THU-2015/teams/langyabang)
 - [环太平洋](https://github.com/orgs/Software-Eng-THU-2015/teams/pacific-rim)
+- [珍环传](https://github.com/orgs/Software-Eng-THU-2015/teams/precious-ring)
+
 
 
