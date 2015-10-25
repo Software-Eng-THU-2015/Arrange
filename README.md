@@ -59,6 +59,7 @@
 - [tomoyoyo](https://github.com/tomoyoyo)
 - [simoooncao](https://github.com/simoooncao)
 - [caozhangjie](https://github.com/caozhangjie)
+- [phoenixhanren](https://github.com/phoenixhanren)
 
 ## 招募中Team
 
