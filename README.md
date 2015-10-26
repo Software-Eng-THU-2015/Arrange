@@ -33,7 +33,7 @@
 - [EdAndrew](https://github.com/EdAndrew)
 - [phoenixhanren](https://github.com/phoenixhanren)
  
-##已要求但未加入成员
+##已邀请但未加入成员
 1. [anyingbinglong](https://github.com/anyingbinglong)
 - [peterandluc](https://github.com/peterandluc)
 - [wangzhi123333](https://github.com/wangzhi123333)
