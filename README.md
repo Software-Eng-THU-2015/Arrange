@@ -5,37 +5,43 @@
 
 ## 未分配成员
 
-1. [anyingbinglong](https://github.com/anyingbinglong) (未通过邀请)
-- [peterandluc](https://github.com/peterandluc) (未通过邀请)
-- [Dknightsure](https://github.com/Dknightsure)
-- [HanderWei](https://github.com/HanderWei) (未通过邀请)
+
+1. [Dknightsure](https://github.com/Dknightsure)
+- [HanderWei](https://github.com/HanderWei)
 - [mikewanggo](https://github.com/mikewanggo)
-- [wangzhi123333](https://github.com/wangzhi123333) (未通过邀请)
 - [jy20122711](https://github.com/jy20122711)
-- [qwerrr](https://github.com/qwerrr) (未通过邀请)
+- [qwerrr](https://github.com/qwerrr)
 - [tmacjx](https://github.com/tmacjx)
 - [Furzoom](https://github.com/Furzoom)
 - [ejacky](https://github.com/ejacky)
 - [Jack-Kingdom](https://github.com/Jack-Kingdom)
-- [akxxsb](https://github.com/akxxsb) (未通过邀请)
-- [haha-guy](https://github.com/haha-guy) (未通过邀请)
+- [haha-guy](https://github.com/haha-guy)
 - [miuchan](https://github.com/miuchan)
 - [wzqlf](https://github.com/wzqlf)
 - [MingGaoNJU](https://github.com/MingGaoNJU)
 - [chym1009](https://github.com/chym1009)
 - [devxia](https://github.com/devxia)
-- [zzstart2](https://github.com/zzstart2) (未通过邀请)
-- [SparklingWind](https://github.com/SparklingWind) (未通过邀请)
-- [expressyang](https://github.com/expressyang) (未通过邀请)
-- [halison95](https://github.com/halison95) (未通过邀请)
+- [zzstart2](https://github.com/zzstart2)
+- [SparklingWind](https://github.com/SparklingWind)
+- [halison95](https://github.com/halison95)
 - [jy-Hamlet](https://github.com/jy-Hamlet)
-- [kehao95](https://github.com/kehao95) (未通过邀请)
+- [kehao95](https://github.com/kehao95)
 - [JiahuiGuo](https://github.com/JiahuiGuo)
 - [dreamqin68](https://github.com/dreamqin68)
 - [gnoweb](https://github.com/gnoweb)
 - [GengShen](https://github.com/GengShen)
-- [EdAndrew](https://github.com/EdAndrew) (未通过邀请)
+- [EdAndrew](https://github.com/EdAndrew)
 - [phoenixhanren](https://github.com/phoenixhanren)
+ 
+##已要求但未加入成员
+1. [anyingbinglong](https://github.com/anyingbinglong)
+- [peterandluc](https://github.com/peterandluc)
+- [wangzhi123333](https://github.com/wangzhi123333)
+- [expressyang](https://github.com/expressyang)
+- [akxxsb](https://github.com/akxxsb)
+- [voidspiral](https://github.com/voidspiral)
+- [zx](https://github.com/zx)
+ 
 
 ## 招募中Team
 
