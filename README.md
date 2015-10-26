@@ -32,6 +32,7 @@
 - [GengShen](https://github.com/GengShen)
 - [EdAndrew](https://github.com/EdAndrew)
 - [phoenixhanren](https://github.com/phoenixhanren)
+- [smallAunt](https://github.com/smallAunt)
  
 ##已邀请但未加入成员
 1. [anyingbinglong](https://github.com/anyingbinglong)
