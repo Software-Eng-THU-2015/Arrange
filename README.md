@@ -45,7 +45,7 @@
  
 
 ## 招募中Team
-
+- [蓝翔电工班](https://github.com/orgs/Software-Eng-THU-2015/teams/lanxiangelectricianteam)
 
 ## 已成立Team
 
