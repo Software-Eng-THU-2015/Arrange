@@ -33,13 +33,13 @@
 - [EdAndrew](https://github.com/EdAndrew)
 - [phoenixhanren](https://github.com/phoenixhanren)
 - [smallAunt](https://github.com/smallAunt)
+- [akxxsb](https://github.com/akxxsb)
  
 ##已邀请但未加入成员
 1. [anyingbinglong](https://github.com/anyingbinglong)
 - [peterandluc](https://github.com/peterandluc)
 - [wangzhi123333](https://github.com/wangzhi123333)
 - [expressyang](https://github.com/expressyang)
-- [akxxsb](https://github.com/akxxsb)
 - [voidspiral](https://github.com/voidspiral)
 - [zx](https://github.com/zx)
  
