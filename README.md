@@ -34,6 +34,7 @@
 - [phoenixhanren](https://github.com/phoenixhanren)
 - [smallAunt](https://github.com/smallAunt)
 - [akxxsb](https://github.com/akxxsb)
+- [chunInsane](https://github.com/chunInsane)
  
 ##已邀请但未加入成员
 1. [anyingbinglong](https://github.com/anyingbinglong)
