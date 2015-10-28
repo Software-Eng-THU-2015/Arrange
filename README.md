@@ -48,7 +48,6 @@
  
 
 ## 招募中Team
-- [蓝翔电工班](https://github.com/orgs/Software-Eng-THU-2015/teams/lanxiangelectricianteam)
 
 ## 已成立Team
 
@@ -63,6 +62,7 @@
 - [环太平洋](https://github.com/orgs/Software-Eng-THU-2015/teams/pacific-rim)
 - [珍环传](https://github.com/orgs/Software-Eng-THU-2015/teams/precious-ring)
 - [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
+- [蓝翔电工班](https://github.com/orgs/Software-Eng-THU-2015/teams/lanxiangelectricianteam)
 
 
 
