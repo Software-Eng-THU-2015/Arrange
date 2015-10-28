@@ -36,6 +36,7 @@
 - [akxxsb](https://github.com/akxxsb)
 - [chunInsane](https://github.com/chunInsane)
 - [CQKang](https://github.com/CQKang)
+- [cxsmarkchan](https://github.com/cxsmarkchan)
  
 ##已邀请但未加入成员
 1. [anyingbinglong](https://github.com/anyingbinglong)
