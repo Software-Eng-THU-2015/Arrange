@@ -43,11 +43,11 @@
 - [peterandluc](https://github.com/peterandluc)
 - [wangzhi123333](https://github.com/wangzhi123333)
 - [expressyang](https://github.com/expressyang)
-- [voidspiral](https://github.com/voidspiral)
 - [zx](https://github.com/zx)
  
 
 ## 招募中Team
+- [搞个大新闻](https://github.com/orgs/Software-Eng-THU-2015/teams/room-114)
 
 ## 已成立Team
 
