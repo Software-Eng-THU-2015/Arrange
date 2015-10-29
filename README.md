@@ -60,6 +60,7 @@
 - [珍环传](https://github.com/orgs/Software-Eng-THU-2015/teams/precious-ring)
 - [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
 - [蓝翔电工班](https://github.com/orgs/Software-Eng-THU-2015/teams/lanxiangelectricianteam)
+- [无焰组](https://github.com/orgs/Software-Eng-THU-2015/teams/wyteam)
 
 
 
