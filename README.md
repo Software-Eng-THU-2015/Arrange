@@ -15,7 +15,6 @@
 - [Furzoom](https://github.com/Furzoom)
 - [ejacky](https://github.com/ejacky)
 - [Jack-Kingdom](https://github.com/Jack-Kingdom)
-- [haha-guy](https://github.com/haha-guy)
 - [miuchan](https://github.com/miuchan)
 - [wzqlf](https://github.com/wzqlf)
 - [MingGaoNJU](https://github.com/MingGaoNJU)
@@ -34,7 +33,6 @@
 - [phoenixhanren](https://github.com/phoenixhanren)
 - [smallAunt](https://github.com/smallAunt)
 - [akxxsb](https://github.com/akxxsb)
-- [chunInsane](https://github.com/chunInsane)
 - [CQKang](https://github.com/CQKang)
 
 ##已邀请但未加入成员
