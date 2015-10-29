@@ -45,7 +45,6 @@
  
 
 ## 招募中Team
-- [搞个大新闻](https://github.com/orgs/Software-Eng-THU-2015/teams/room-114)
 - [Fanction](https://github.com/orgs/Software-Eng-THU-2015/teams/fanction)
 
 ## 已成立Team
@@ -63,6 +62,7 @@
 - [新中韩无敌了](https://github.com/orgs/Software-Eng-THU-2015/teams/incredible-nck)
 - [蓝翔电工班](https://github.com/orgs/Software-Eng-THU-2015/teams/lanxiangelectricianteam)
 - [无焰组](https://github.com/orgs/Software-Eng-THU-2015/teams/wyteam)
+- [搞个大新闻](https://github.com/orgs/Software-Eng-THU-2015/teams/room-114)
 
 
 
