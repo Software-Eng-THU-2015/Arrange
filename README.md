@@ -32,6 +32,7 @@
 - [akxxsb](https://github.com/akxxsb)
 - [CQKang](https://github.com/CQKang)
 - [jiajianbang](https://github.com/jiajianbang)
+- [hxhxd](https://github.com/hxhxd)
 
 ##已邀请但未加入成员
 1. [anyingbinglong](https://github.com/anyingbinglong)
