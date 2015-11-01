@@ -40,6 +40,7 @@
 - [wangzhi123333](https://github.com/wangzhi123333)
 - [expressyang](https://github.com/expressyang)
 - [zx](https://github.com/zx)
+- [shiyingwang](https://github.com/shiyingwang)
  
 
 ## 招募中Team
