@@ -44,6 +44,8 @@
 
 ## 招募中Team
 
+- [梦](https://github.com/orgs/Software-Eng-THU-2015/teams/dream)
+
 ## 已成立Team
 
 - [四个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thefourstooges)
