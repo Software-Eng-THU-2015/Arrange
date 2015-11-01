@@ -33,6 +33,7 @@
 - [CQKang](https://github.com/CQKang)
 - [jiajianbang](https://github.com/jiajianbang)
 - [hxhxd](https://github.com/hxhxd)
+- [shiyingwang](https://github.com/shiyingwang)
 
 ##已邀请但未加入成员
 1. [anyingbinglong](https://github.com/anyingbinglong)
@@ -40,7 +41,6 @@
 - [wangzhi123333](https://github.com/wangzhi123333)
 - [expressyang](https://github.com/expressyang)
 - [zx](https://github.com/zx)
-- [shiyingwang](https://github.com/shiyingwang)
  
 
 ## 招募中Team
