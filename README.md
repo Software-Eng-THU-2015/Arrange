@@ -40,8 +40,6 @@
 
 ## 招募中Team
 
-- [梦](https://github.com/orgs/Software-Eng-THU-2015/teams/dream)
-
 ## 已成立Team
 
 - [四个臭皮匠](https://github.com/orgs/Software-Eng-THU-2015/teams/thefourstooges)
@@ -59,6 +57,6 @@
 - [无焰组](https://github.com/orgs/Software-Eng-THU-2015/teams/wyteam)
 - [搞个大新闻](https://github.com/orgs/Software-Eng-THU-2015/teams/room-114)
 - [Fanction](https://github.com/orgs/Software-Eng-THU-2015/teams/fanction)
-
+- [梦](https://github.com/orgs/Software-Eng-THU-2015/teams/dream)
 
 
