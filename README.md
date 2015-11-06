@@ -29,6 +29,9 @@
 - [jiajianbang](https://github.com/jiajianbang)
 - [hxhxd](https://github.com/hxhxd)
 - [shiyingwang](https://github.com/shiyingwang)
+- [shengjw](https://github.com/shengjw)
+- [GFY](https://github.com/GFY)
+- [niuchengshui](https://github.com/niuchengshui)
 
 ##已邀请但未加入成员
 1. [anyingbinglong](https://github.com/anyingbinglong)
